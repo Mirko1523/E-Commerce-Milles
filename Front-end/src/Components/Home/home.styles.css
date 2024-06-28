@@ -1,3 +1,15 @@
 body{
     background-color: rgb(36, 35, 35);
 }
+
+.video-Home{
+    margin: 3px;
+}
+
+.video-background{
+    width: 224.7vh;
+    height: 75vh; 
+    object-fit:cover;
+    border:50px;
+    margin-left: -2px;
+}

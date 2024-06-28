@@ -3,43 +3,48 @@ body {
 }
 
 .allnav-nav {
-  background-color: rgba(81, 81, 82, 0.87);
+  background-color: rgba(86, 86, 87, 0.884);
   padding: 20px 65px;
   display: flex;
   align-items: center;
   justify-content: space-between;
   border: 10px;
- 
+  height: 55px;
 }
 
 .title-nav {
   font-size: 10px;
   font-weight: bold;
-  font-family:Verdana, Geneva, Tahoma, sans-serif
-  }
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.navLink-title {
+  display: flex;
+  align-items: center;
+}
+
+.nav-logo {
+  width: 240px;
+  height: auto;
   
-  .navLink-title{
-   text-decoration: none;
-   color: white;
-  }
+}
 
 .navlink-nav {
   display: flex;
   margin-right: 10vh;
   gap: 4vh;
-
 }
 
 .navlink-button {
   text-decoration: none;
   color: rgb(172, 172, 172);
   font-size: 20px;
-  font-weight:bolder;
+  font-weight: bolder;
   padding: 10px 5px;
   border: 2px;
   border-radius: 5px;
   transition: all 0.3s ease;
-  font-family:Verdana, Geneva, Tahoma, sans-serif
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .navlink-button:hover {
@@ -47,5 +52,3 @@ body {
   color: rgb(255, 255, 255);
   border-color: #272727;
 }
-
-
