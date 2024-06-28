@@ -1,0 +1,31 @@
+.styles-card {
+    width: 300px; 
+    padding: 20px;
+    margin: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    color: white;
+}
+
+.styles-card img {
+    width: 100%; 
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+}
+
+.styles-card button{
+    width: 50%; 
+    height: 8%;
+    border-radius: 15px;
+    background-color: rgb(87, 86, 86);
+    color: beige;
+}
+
+
+.cards-containerStyles {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}

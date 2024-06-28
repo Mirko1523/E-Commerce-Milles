@@ -7,9 +7,18 @@ body{
 }
 
 .video-background{
-    width: 223.9vh;
+    width: 221.1vh;
     height: 75vh; 
     object-fit:cover;
     border:50px;
     margin-left: -2px;
+}
+
+.buttononsidestyle-home{
+    height: 50px;
+    width: 100px;
+    background-color: white;
+    border-radius: 50px;
+    cursor: pointer;
+    margin-left: 100vh;
 }

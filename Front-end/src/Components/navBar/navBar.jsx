@@ -26,6 +26,7 @@ function Nav() {
           Contacto
         </NavLink>
       </div>
+    
     </div>
   );
 }
