@@ -11,39 +11,69 @@
     border-radius: 27px;
 }
 
-.aboutUsContent{
-     display: flex;
+.aboutUsContent {
+    display: flex;
+    flex-direction: column;
     justify-content: space-between;
     margin: 20px 0;
 }
 
-.aboutUsH3-styles{
-    text-align: right;
-    text-align: center;
-    font-size: 3.5vh;
-    font-weight: bold;
-    height: 50%;
-    width: 48%;
-    background-color: rgb(116, 116, 116);
-    color: rgb(255, 255, 255);
-    padding: 10px;
-    border-radius: 10px;
-    margin-left: 10px;
-
+.aboutUsSection {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 20px 0;
 }
 
-.aboutUsParrafo-styles{
-    text-align: right;
-    text-align: center;
-    font-size: 3vh;
-    height: 100%;
-    width: 48%;
+.aboutUsH3-styles {
+    font-size: 4vh;
+    font-weight: bold;
     background-color: rgb(116, 116, 116);
     color: rgb(255, 255, 255);
-    padding: 10px;
-    box-sizing: border-box;
-    margin-top: 50vh;
+    padding: 20px;
     border-radius: 10px;
-    margin-right: 10px;
+    height: 35vh;
+    width: 50%;
+    box-sizing: border-box;
+    text-align: center;
+    margin-left: 30px;
+}
+
+.aboutUsParrafo-styles {
+    font-size: 3.3vh;
+    background-color: rgb(116, 116, 116);
+    color: rgb(255, 255, 255);
+    padding: 20px;
+    border-radius: 10px;
+    width: 50%;
+    box-sizing: border-box;
+    text-align: center;
+    margin-right: 15px;
+}
+
+.img4-container,
+.img3-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 40%;
+}
+
+.img4nosotros-styles,
+.img3nosotros-styles {
+    width: 70vh;
+    height: 50vh;
+    border-radius: 10px;
     
+}
+
+.img4-container {
+    justify-content: flex-end;
+    margin-right: 5vh;
+}
+
+.img3-container {
+    justify-content: flex-start;
+    margin-top: 25px;
+    margin-left: 5vh;
 }
