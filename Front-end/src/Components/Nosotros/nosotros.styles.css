@@ -1,0 +1,49 @@
+.aboutUsH1-styles {
+    text-align: center;
+    font-size: 4vh;
+    background-color: rgba(54, 53, 53, 0.726);
+    color: white;
+    height: 100px;
+    width: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 27px;
+}
+
+.aboutUsContent{
+     display: flex;
+    justify-content: space-between;
+    margin: 20px 0;
+}
+
+.aboutUsH3-styles{
+    text-align: right;
+    text-align: center;
+    font-size: 3.5vh;
+    font-weight: bold;
+    height: 50%;
+    width: 48%;
+    background-color: rgb(116, 116, 116);
+    color: rgb(255, 255, 255);
+    padding: 10px;
+    border-radius: 10px;
+    margin-left: 10px;
+
+}
+
+.aboutUsParrafo-styles{
+    text-align: right;
+    text-align: center;
+    font-size: 3vh;
+    height: 100%;
+    width: 48%;
+    background-color: rgb(116, 116, 116);
+    color: rgb(255, 255, 255);
+    padding: 10px;
+    box-sizing: border-box;
+    margin-top: 50vh;
+    border-radius: 10px;
+    margin-right: 10px;
+    
+}
