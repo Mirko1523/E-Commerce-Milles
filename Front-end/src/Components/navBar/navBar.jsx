@@ -19,6 +19,9 @@ function Nav() {
         <NavLink to="/vehiculos" className="navlink-button">
           Vehículos
         </NavLink>
+        <NavLink to="/servicios" className="navlink-button"> 
+        Servicios 
+        </NavLink>
         <NavLink to="/nosotros" className="navlink-button">
           Nosotros
         </NavLink>

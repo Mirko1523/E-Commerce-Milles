@@ -1,3 +1,5 @@
+
+
 .aboutUsH1-styles {
     text-align: center;
     font-size: 4vh;
@@ -26,17 +28,17 @@
 }
 
 .aboutUsH3-styles {
-    font-size: 4vh;
-    font-weight: bold;
+    font-size: 3.5vh;
+    font-weight:bolder;
     background-color: rgb(116, 116, 116);
     color: rgb(255, 255, 255);
     padding: 20px;
     border-radius: 10px;
-    height: 35vh;
+    height: 28vh;
     width: 50%;
     box-sizing: border-box;
     text-align: center;
-    margin-left: 30px;
+    margin-left: 50px;
 }
 
 .aboutUsParrafo-styles {
@@ -48,7 +50,7 @@
     width: 50%;
     box-sizing: border-box;
     text-align: center;
-    margin-right: 15px;
+    margin-right: 50px;
 }
 
 .img4-container,
@@ -61,7 +63,7 @@
 
 .img4nosotros-styles,
 .img3nosotros-styles {
-    width: 70vh;
+    width: 67vh;
     height: 50vh;
     border-radius: 10px;
     
@@ -69,11 +71,11 @@
 
 .img4-container {
     justify-content: flex-end;
-    margin-right: 5vh;
+    margin-right: 10vh;
 }
 
 .img3-container {
     justify-content: flex-start;
     margin-top: 25px;
-    margin-left: 5vh;
+    margin-left: 10vh;
 }

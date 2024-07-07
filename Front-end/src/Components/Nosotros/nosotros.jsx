@@ -17,6 +17,7 @@ function AboutUs() {
                         <p>Con más de 15 años de experiencia en el mercado de vehículos de Gama alta y Media Gama.
                             Milles cuenta con dos sucursales en las zonas de Entre Rios
                             (Gualeguaychú, Villaguay, Rosario, Concepción del Uruguay).</p>
+                            
                     </div>
                     <div className="img4-container">
                         <img src={imagen4} className="img4nosotros-styles" alt="Auto" />
