@@ -1,5 +1,6 @@
 import React from "react";
 import "./servicios.styles.css"
+import Footer from '../Footer/footer'
 import img5 from '../../../MULTIMEDIA/fondocarrito.png'
 function Services () {
     return(
@@ -41,7 +42,9 @@ function Services () {
                <div className="images-services">
                  <img src="http://www.hascar.com.ar/static/imagenes/icono3.png" className="image-services3"/>
             </div>
+            
         </div>
+        <Footer/>
        </div>
     )
 }

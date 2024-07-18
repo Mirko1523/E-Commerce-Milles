@@ -1,16 +1,26 @@
 import React from "react"
+import {NavLink} from 'react-router-dom'
 import './footer.styles.css'
 function Footer () {
-return(  
-<footer className='footer'>
-        <div>
-      <h1>Contactate con nosotros!</h1>
-      </div>
-      <div>
-      <p>Te responderemos lo antes posible</p>
-      </div>
-    </footer>
-)
+
+return (
+        <footer className='footer'>
+            <div>
+                <div className="title-footer">
+                    <h1>Milles Perfomance</h1>
+                </div>
+                <hr></hr>
+                <div className="contact-footer">
+                    <h3>Ante cúalquier duda</h3>
+                    <div className="contactbg-footer">
+                    <h3 className="contactnodecoration1-footer"><NavLink to="/contactanos" className="contactnodecoration-footer">📞¡CONTACTATE!📞</NavLink></h3>
+                    </div>
+                    <p>🚗Te responderemos lo antes posible ante cualquier pregunta🚗</p>
+                </div>
+                <c></c>
+                </div>
+        </footer>
+    );
 }
 
-export default Footer
+export default Footer;

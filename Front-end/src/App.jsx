@@ -19,7 +19,7 @@ return (
       <Route path='/nosotros' element={<AboutUs/>}></Route>
       </Routes>  
  
-     <Footer/>
+     
     </div>
  
   )
