@@ -1,4 +1,8 @@
-<div className="form-footer">
+import React from "react"
+import './contact.css'
+function Contact() {
+     return(
+    <div className="form-footer">
                     <div className="input-container">
                         <p>Tu nombre</p>
                         <input className="input" placeholder="Nombre" type="text" name="nombre" />
@@ -20,4 +24,8 @@
                         <input className="input" placeholder="Auto" type="text" name="auto" />
                     </div>
                     <button className="create" type="submit">Enviar</button>
-                </div> */}
+                </div> 
+     )
+}
+
+export default Contact;
