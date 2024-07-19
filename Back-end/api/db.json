@@ -1,0 +1,83 @@
+{
+    "cars": [
+        {
+            "id" : 1,
+            "brand": "Ford",
+            "model": "Mustang",
+            "year": 2020,
+            "price": "USD 65.000",
+            "kms": "0km",
+            "logo": "https://www.carlogos.org/car-logos/ford-logo-2017-640.png",
+            "image": [
+                "https://carsales.pxcrush.net/carsales/car/dealer/8o6y6xgsbkwdqpyb1dqi3dffc.jpg?pxc_method=gravityfill&pxc_bgtype=self&pxc_size=900%2c600",
+                "https://carsales.pxcrush.net/carsales/car/dealer/8dcwtpr7871dw9eu443t9zjyc.jpg?pxc_method=gravityfill&pxc_bgtype=self&pxc_size=900%2c600"
+            ]
+        },
+        {
+            "id" : 2,
+            "brand": "Honda",
+            "model": "Civic",
+            "year": 2021,
+            "price": "USD 30.000",
+            "kms": "50.000",
+            "logo": "https://www.carlogos.org/car-logos/honda-logo-2000-full-640.png",
+            "image": [
+                "https://carsales.pxcrush.net/carsales/car/dealer/9016585b7d692e7857b19383bcc67b5d.jpg?pxc_method=gravityfill&pxc_bgtype=self&pxc_size=900%2c600",
+                "https://carsales.pxcrush.net/carsales/car/dealer/35043f3b75de151ba35a92348ea21f63.jpg?pxc_method=gravityfill&pxc_bgtype=self&pxc_size=900%2c600"
+            ]
+        },
+        {
+            "id" : 3,
+            "brand": "Toyota",
+            "model": "Corolla",
+            "year": 2022,
+            "price": "USD 65.000",
+            "kms": "0km",
+            "logo": "https://www.carlogos.org/car-logos/toyota-logo-2020-europe-640.png",
+            "image": [
+                "https://carsales.pxcrush.net/carsales/car/dealer/181efbe99b2a5e36a0b9b43f35b72b23.jpg?pxc_method=gravityfill&pxc_bgtype=self&pxc_size=900%2c600",
+                "https://carsales.pxcrush.net/carsales/car/dealer/e2a99a7c94eade5d1bb4cd8d885f938d.jpg?pxc_method=gravityfill&pxc_bgtype=self&pxc_size=900%2c600"
+            ]
+        },
+        {
+            "id" : 4,
+            "brand": "Chevrolet",
+            "model": "Camaro",
+            "year": 2021,
+            "price": "USD 60.000",
+            "kms": "0km",
+            "logo": "https://www.carlogos.org/logo/Chevrolet-logo-2004-640x243.jpg",
+            "image": [
+                "https://listings-prod.tcimg.net/listings/44107/83/69/1G1FB1RS7R0106983/OQR35ACNCAISXYI4M5DCU5NSPA-cr-540.jpg",
+                "https://listings-prod.tcimg.net/listings/44107/83/69/1G1FB1RS7R0106983/HOQOBQYAZZSGLPS6WYONE3JD6A-cr-360.jpg"
+            ]
+        },
+        {
+            "id" : 5,
+            "brand": "Bmw",
+            "model": "Serie 3",
+            "year": 2022,
+            "price": "USD 60.000",
+            "kms": "18.000km",
+            "logo": "https://www.carlogos.org/car-logos/bmw-logo-1997-download.png",
+            "image": 
+                [
+                    "https://listings-prod.tcimg.net/listings/333901/46/87/3MW5R1J04N8C48746/DCUE5A5YJRTHYHPN4R4MNUFGEE-cr-860.jpg",
+                    "https://listings-prod.tcimg.net/listings/333901/46/87/3MW5R1J04N8C48746/B7G7I7V24VHCN22HUROR63N65M-cr-360.jpg"
+                ]
+        },
+        {
+            "id" : 6,
+            "brand": "Hyundai",
+            "model": "Tucson",
+            "year": 2024,
+            "price": "USD 45.000",
+            "kms": "10.000km",
+            "logo": "https://www.carlogos.org/car-logos/hyundai-logo-2011-640.png",
+            "image": [
+                "https://listings-prod.tcimg.net/listings/40159/38/59/5NMJFCDE7RH305938/ZHVKMIVHZBEUYF4ZMPZ4AAUMS4-og-540.jpg",
+                "https://listings-prod.tcimg.net/listings/40159/38/59/5NMJFCDE7RH305938/7GND76DZBSX33YEOYZ756JQI4I-og-360.jpg"
+            ]
+        }
+    ]
+}
