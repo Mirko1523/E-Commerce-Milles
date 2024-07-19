@@ -6,6 +6,7 @@ import Putcarsinpage from './Components/Vehiculos/vehiculos'
 import AboutUs from './Components/Nosotros/nosotros'
 import Footer from './Components/Footer/footer'
 import Services from './Components/Servicios/servicios'
+import Contact from './Components/Contact/contact'
 function App() {
 return (   
     <div>
@@ -17,6 +18,7 @@ return (
       <Route path='/vehiculos' element={<Putcarsinpage/>}></Route>
       <Route path='/servicios' element={<Services/>}></Route>
       <Route path='/nosotros' element={<AboutUs/>}></Route>
+      <Route path='/contactanos' element={<Contact/>}></Route>
       </Routes>  
  
      
