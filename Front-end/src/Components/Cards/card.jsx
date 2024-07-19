@@ -1,5 +1,6 @@
 import React from "react";
 import imagen2 from '../../../MULTIMEDIA/ImagenAuto.png'
+import {NavLink} from 'react-router-dom'
 import './card.styles.css'
 
 const carsData = [
@@ -20,7 +21,7 @@ function CreateCarCard({ car }) {
             <h2>{car.make} {car.model}</h2>
             <p>Año: {car.year}</p>
             <p>Valor:{car.valor}</p>
-            <button>Comprar</button>
+            <NavLink to="/contactanos"><button>Consultar</button></NavLink>
         </div>
         
     );
