@@ -17,7 +17,7 @@ return (
                     </div>
                     <p>🚗Te responderemos lo antes posible ante cualquier pregunta🚗</p>
                 </div>
-                <c></c>
+                
                 </div>
         </footer>
     );
