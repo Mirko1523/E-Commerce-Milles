@@ -2,7 +2,7 @@ import React from "react";
 import './nosotros.styles.css'
 import imagen3 from '../../../MULTIMEDIA/auto.png'
 import imagen4 from '../../../MULTIMEDIA/auto2.png'
-
+import Footer from "../Footer/footer";
 function AboutUs() {
     return (
         <div>
@@ -36,6 +36,7 @@ function AboutUs() {
                     
                 </div>
             </div>
+            <Footer/>
         </div>
     );
 }
