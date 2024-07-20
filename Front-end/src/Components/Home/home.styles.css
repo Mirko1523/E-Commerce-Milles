@@ -14,11 +14,19 @@ body{
     margin-left: -2px;
 }
 
+.button-home{
+     display: flex;
+    align-items: center; 
+    justify-content: center; 
+
+}
 .buttononsidestyle-home{
+    align-items: center;
+    justify-content: center;
     height: 50px;
     width: 100px;
     background-color: white;
     border-radius: 50px;
     cursor: pointer;
-    margin-left: 100vh;
+    
 }

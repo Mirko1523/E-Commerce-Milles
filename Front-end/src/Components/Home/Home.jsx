@@ -16,8 +16,10 @@ function HomePage() {
          ></video>
       </div>   
       <CarList numberOfCards={3}/>
+      <div className="button-home">
          <div className="buttonstyle-home">
         <NavLink to="vehiculos"><button className="buttononsidestyle-home">Ver Más</button></NavLink>
+      </div>
       </div>
       <Footer/>
     </div>
